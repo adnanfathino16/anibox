@@ -2,7 +2,7 @@ export const navbar = `
   <nav class="bg-black border-gray-200 py-4">
     <div class="mx-16 flex flex-wrap items-center justify-between">
       <a href="/" class="flex items-center">
-        <span class="self-center text-xl font-semibold whitespace-nowrap text-white">AniBox</span>
+        <span class="self-center text-xl font-semibold whitespace-nowrap text-white">AniBoxx</span>
       </a>
       <div class="flex md:order-2">
         <button type="button" data-collapse-toggle="navbar-search" aria-controls="navbar-search" aria-expanded="false"
